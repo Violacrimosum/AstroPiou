@@ -19,12 +19,12 @@ public class CamSwitch : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.anyKeyDown) {
-
+			Application.LoadLevel (1); 
 		}
 		delta += Time.deltaTime;
 		print (delta);
 		if (delta >= 80) {
-
+			Application.LoadLevel (1); 
 		}
 		else if (delta >= 74f) {
 			cams [0].enabled = false;

@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 32236519f7dd09649913fc5c7bb891d1
+timeCreated: 1428331836
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Antenne
+    100002: //RootNode
+    100004: AstroPiou
+    100006: BackSuit
+    100008: BodySuit
+    100010: BottomBeak
+    100012: BottomSuit
+    100014: connecterStructure003
+    100016: connecterStructure004
+    100018: connecterStructure005
+    100020: connecterStructure006
+    100022: Cuisse
+    100024: Cuisse001
+    100026: Cylindre001
+    100028: Cylindre002
+    100030: Cylindre003
+    100032: Cylindre004
+    100034: Cylindre005
+    100036: GlassSuit
+    100038: "G\xE9osph\xE8re001"
+    100040: Jambe
+    100042: Jambe002
+    100044: OeilDroit
+    100046: OeilGauche
+    100048: Patte
+    100050: Patte004
+    100052: Patte005
+    100054: Patte006
+    100056: Patte007
+    100058: Patte01
+    100060: Patte02
+    100062: Patte03
+    100064: Structure001
+    100066: Structure002
+    100068: Structure003
+    100070: Structure004
+    100072: Structure005
+    100074: Structure006
+    100076: Structure007
+    100078: Structure008
+    100080: Structure009
+    100082: Structure010
+    100084: Structure011
+    100086: Structure012
+    100088: Structure013
+    100090: Structure014
+    100092: Structure015
+    100094: Structure016
+    100096: Structure017
+    100098: UpperBeak
+    400000: Antenne
+    400002: AstroPiou
+    400004: //RootNode
+    400006: BackSuit
+    400008: BodySuit
+    400010: BottomBeak
+    400012: BottomSuit
+    400014: connecterStructure003
+    400016: connecterStructure004
+    400018: connecterStructure005
+    400020: connecterStructure006
+    400022: Cuisse
+    400024: Cuisse001
+    400026: Cylindre001
+    400028: Cylindre002
+    400030: Cylindre003
+    400032: Cylindre004
+    400034: Cylindre005
+    400036: GlassSuit
+    400038: "G\xE9osph\xE8re001"
+    400040: Jambe
+    400042: Jambe002
+    400044: OeilDroit
+    400046: OeilGauche
+    400048: Patte
+    400050: Patte004
+    400052: Patte005
+    400054: Patte006
+    400056: Patte007
+    400058: Patte01
+    400060: Patte02
+    400062: Patte03
+    400064: Structure001
+    400066: Structure002
+    400068: Structure003
+    400070: Structure004
+    400072: Structure005
+    400074: Structure006
+    400076: Structure007
+    400078: Structure008
+    400080: Structure009
+    400082: Structure010
+    400084: Structure011
+    400086: Structure012
+    400088: Structure013
+    400090: Structure014
+    400092: Structure015
+    400094: Structure016
+    400096: Structure017
+    400098: UpperBeak
+    4300000: "G\xE9osph\xE8re001"
+    4300002: Cylindre001
+    4300004: Cylindre002
+    4300006: Cylindre003
+    4300008: Cylindre004
+    4300010: Cylindre005
+    4300012: Patte01
+    4300014: Patte02
+    4300016: Patte03
+    4300018: Jambe
+    4300020: Cuisse
+    4300022: Cuisse001
+    4300024: Jambe002
+    4300026: Patte005
+    4300028: Patte006
+    4300030: Patte007
+    4300032: BodySuit
+    4300034: BackSuit
+    4300036: BottomSuit
+    4300038: GlassSuit
+    4300040: AstroPiou
+    4300042: OeilDroit
+    4300044: OeilGauche
+    4300046: UpperBeak
+    4300048: BottomBeak
+    7400000: Run
+    9500000: //RootNode
+    13700000: AstroPiou
+    13700002: BackSuit
+    13700004: BodySuit
+    13700006: BottomBeak
+    13700008: BottomSuit
+    13700010: Cuisse
+    13700012: Cuisse001
+    13700014: Cylindre001
+    13700016: Cylindre002
+    13700018: Cylindre003
+    13700020: Cylindre004
+    13700022: Cylindre005
+    13700024: GlassSuit
+    13700026: "G\xE9osph\xE8re001"
+    13700028: Jambe
+    13700030: Jambe002
+    13700032: OeilDroit
+    13700034: OeilGauche
+    13700036: Patte005
+    13700038: Patte006
+    13700040: Patte007
+    13700042: Patte01
+    13700044: Patte02
+    13700046: Patte03
+    13700048: UpperBeak
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Antenne
+        weight: 1
+      - path: Antenne/Cylindre001
+        weight: 1
+      - path: Antenne/Cylindre002
+        weight: 1
+      - path: Antenne/Cylindre003
+        weight: 1
+      - path: Antenne/Cylindre004
+        weight: 1
+      - path: Antenne/Cylindre005
+        weight: 1
+      - path: "Antenne/G\xE9osph\xE8re001"
+        weight: 1
+      - path: AstroPiou
+        weight: 1
+      - path: BackSuit
+        weight: 1
+      - path: BodySuit
+        weight: 1
+      - path: BottomBeak
+        weight: 1
+      - path: BottomSuit
+        weight: 1
+      - path: Cuisse
+        weight: 1
+      - path: Cuisse001
+        weight: 1
+      - path: GlassSuit
+        weight: 1
+      - path: Jambe
+        weight: 1
+      - path: Jambe002
+        weight: 1
+      - path: OeilDroit
+        weight: 1
+      - path: OeilGauche
+        weight: 1
+      - path: Patte
+        weight: 1
+      - path: Patte/Patte01
+        weight: 1
+      - path: Patte/Patte02
+        weight: 1
+      - path: Patte/Patte03
+        weight: 1
+      - path: Patte004
+        weight: 1
+      - path: Patte004/Patte005
+        weight: 1
+      - path: Patte004/Patte006
+        weight: 1
+      - path: Patte004/Patte007
+        weight: 1
+      - path: Structure001
+        weight: 1
+      - path: Structure001/Structure002
+        weight: 1
+      - path: Structure001/Structure002/Structure003
+        weight: 1
+      - path: Structure004
+        weight: 1
+      - path: Structure004/Structure005
+        weight: 1
+      - path: Structure004/Structure005/Structure006
+        weight: 1
+      - path: Structure007
+        weight: 1
+      - path: Structure008
+        weight: 1
+      - path: Structure008/connecterStructure006
+        weight: 1
+      - path: Structure008/connecterStructure006/Structure013
+        weight: 1
+      - path: Structure008/connecterStructure006/Structure013/Structure014
+        weight: 1
+      - path: Structure008/connecterStructure006/Structure013/Structure014/Structure015
+        weight: 1
+      - path: Structure008/connecterStructure006/Structure013/Structure014/Structure015/Structure016
+        weight: 1
+      - path: Structure008/connecterStructure006/Structure013/Structure014/Structure015/Structure016/Structure017
+        weight: 1
+      - path: Structure008/Structure009
+        weight: 1
+      - path: Structure008/Structure009/connecterStructure005
+        weight: 1
+      - path: Structure008/Structure009/connecterStructure005/Structure012
+        weight: 1
+      - path: Structure008/Structure009/connecterStructure005/Structure012/connecterStructure003
+        weight: 1
+      - path: Structure008/Structure009/connecterStructure005/Structure012/connecterStructure003/Structure010
+        weight: 1
+      - path: Structure008/Structure009/connecterStructure005/Structure012/connecterStructure004
+        weight: 1
+      - path: Structure008/Structure009/connecterStructure005/Structure012/connecterStructure004/Structure011
+        weight: 1
+      - path: UpperBeak
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
